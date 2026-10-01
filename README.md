@@ -6,7 +6,7 @@
 > 本仓库为**开源版**：内置一份小规模示例题库（马原基础概念，仅演示结构与流程），
 > 正式题库请按 [题库导入](#题库导入) 一节用自己的资料生成。
 
-![网络图片](https://example.com/image.jpg)
+![图片](https://github.com/4nthon/liti/blob/main/images/e34ebcadf4964c654dbc797a14dfc671.jpg?raw=true)
 
 ## 功能特性
 
